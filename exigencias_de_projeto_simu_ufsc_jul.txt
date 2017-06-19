@@ -1,0 +1,15 @@
+
+
+			SISTEMA DE INSCRIÇÃO - SIMULADO UFSC JULHO 2018
+
+		DEADLINE ENTREGA DO SISTEMA: 21/06/2017
+
+		Data do Sistema Online: 8hH 22/06D até 23h59hH 26/06D
+
+	Informações à serem inseridas pelo usuário:	
+		-Número de inscrição/matrícula do Einstein
+		-Curso pretendido Vestibular UFSC	
+		-Opção de cota;
+		-Opção de Língua Estrangeira (Inglês ou Espanhol);
+	Dados que Hogwarts gostaria:
+	
